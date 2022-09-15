@@ -2,7 +2,9 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-![preview]()
+![preview](./danilosw0.github.io_Rocketseat-Explore_.png)
+
+ [Clique aqui para acessar](https://danilosw0.github.io/Rocketseat-Explore/)
 
 ## 🛠 Tecnologias
 
